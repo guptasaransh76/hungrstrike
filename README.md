@@ -1,24 +1,24 @@
-# README
+# HungerStrike
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: 2.5.1
+* Rails version: 5.2.0
+* Database: Postgresql
 
-Things you may want to cover:
+## Setup steps:
+*  Git clone https://github.com/guptasaransh76/hungrstrike.git
+*  bundle isntall
+*  rails db:create 
+*  rails db:migrate
+*  rails db:seed
 
-* Ruby version
+* rails server
 
-* System dependencies
+## Python Files
+* BeautifulSoup was used to scrap data like restaurant names, url, location and ratings from Dinout - "https://www.dineout.co.in/bangalore-restaurants"
 
-* Configuration
+### setup steps:
+* pip install beautifulsoup4
+* python scrapper.py
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Scrapped data Storage
+* data is stored in csv format in the file named "data.csv".
