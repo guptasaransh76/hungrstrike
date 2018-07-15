@@ -1,8 +1,10 @@
 # HungerStrike
+It is a Ruby on Rails application that displays restaurant details and displays on a map using google maps.
 
 * Ruby version: 2.5.1
 * Rails version: 5.2.0
 * Database: Postgresql
+* Data Collection: Python (BeautifulSoup4)
 
 ## Setup steps:
 *  Git clone https://github.com/guptasaransh76/hungrstrike.git
