@@ -82,5 +82,6 @@ test:
 production:
   <<: *default
   database: sar_production
+  adapter: postgresql
   username: sar
   password: <%= ENV['SAR_DATABASE_PASSWORD'] %>
