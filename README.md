@@ -14,7 +14,7 @@ It is a Ruby on Rails application that displays restaurant details and displays 
 *  rails db:seed
 
 * rails server
-> Go to http://localhost:3000
+> Go to http://localhost:3000/foods
 
 ## Python Files
 * BeautifulSoup was used to scrap data like restaurant names, url, location and ratings from Dinout - "https://www.dineout.co.in/bangalore-restaurants"
