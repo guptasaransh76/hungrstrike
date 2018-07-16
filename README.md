@@ -26,10 +26,10 @@ It is a Ruby on Rails application that displays restaurant details and displays 
 ## Scrapped data Storage
 * data is stored in csv format in the file named "data.csv".
 
-*Screeshots*
+## *Screeshots*
 
-## Index Page
+#### Index Page
 <img width="1203" alt="screen shot 2018-07-16 at 12 54 30 pm" src="https://user-images.githubusercontent.com/30376024/42747113-8e16410e-88f8-11e8-96c4-a7cd6df8fbc3.png">
 
-## Show Page
+#### Show Page
 <img width="972" alt="screen shot 2018-07-16 at 12 54 58 pm" src="https://user-images.githubusercontent.com/30376024/42747084-7319b818-88f8-11e8-91c0-9ff8273048e2.png">
