@@ -12,6 +12,7 @@ It is a Ruby on Rails application that displays restaurant details and displays 
 *  rails db:create 
 *  rails db:migrate
 *  rails db:seed
+> Go to localhost:3000
 
 * rails server
 
