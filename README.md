@@ -8,7 +8,7 @@ It is a Ruby on Rails application that displays restaurant details and displays 
 
 ## Setup steps:
 *  Git clone https://github.com/guptasaransh76/hungrstrike.git
-*  bundle isntall
+*  bundle install
 *  rails db:create 
 *  rails db:migrate
 *  rails db:seed
